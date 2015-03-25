@@ -1,10 +1,28 @@
 {
   "people": [
     {
-      "name": "Igor",
-      "surname": "Buryak",
-      "age": 1,
+      "name": "dscd",
+      "surname": "rst",
+      "age": 8,
       "id": 1
+    },
+    {
+      "name": 123,
+      "surname": "123s",
+      "age": 3,
+      "id": 3
+    },
+    {
+      "name": "pd",
+      "surname": "stds",
+      "age": 2,
+      "id": 4
+    },
+    {
+      "name": "srtsr",
+      "surname": "rstsrt",
+      "age": 3,
+      "id": 5
     }
   ]
 }
